@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{00E364EB-8F56-4565-8F0F-A94147F076E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yarp.ReverseProxy.Dashboard", "src\Yarp.ReverseProxy.Dashboard\Yarp.ReverseProxy.Dashboard.csproj", "{3B52AB64-EC01-4EB4-AF6D-582A5C299C79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{4855FDC9-BB92-4F58-9C42-9A7D569A6A6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{123DA773-8AC7-49A7-8286-D631EA4FD07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B52AB64-EC01-4EB4-AF6D-582A5C299C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B52AB64-EC01-4EB4-AF6D-582A5C299C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B52AB64-EC01-4EB4-AF6D-582A5C299C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B52AB64-EC01-4EB4-AF6D-582A5C299C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B52AB64-EC01-4EB4-AF6D-582A5C299C79} = {00E364EB-8F56-4565-8F0F-A94147F076E0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31835C6F-BF2F-455A-8F86-BB9022976811}
+	EndGlobalSection
+EndGlobal
